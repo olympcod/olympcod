@@ -1,4 +1,3 @@
-<h2 align="center">Hi 👋, I'm Olympcod</h2>
 <h3 align="center">A passionate full stack engineer specializing in JS, PHP, Python, and AWS</h3>
 
 <h3 align="left">Languages and Tools:</h3>
